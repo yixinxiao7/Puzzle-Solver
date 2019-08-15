@@ -1,0 +1,2 @@
+0 0 0
+//this map has absolutely nothing. Should be rejected right away

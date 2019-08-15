@@ -1,0 +1,7 @@
+1 5 5
+//this one has one too many colors
+##.?.
+..B##
+.b...
+A####
+a...@
